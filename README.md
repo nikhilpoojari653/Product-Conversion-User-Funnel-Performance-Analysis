@@ -1,6 +1,8 @@
 ## Product Conversion & User Funnel Performance Analysis
 This project performs an end-to-end analysis of a SaaS platform's user event data to map the conversion funnel, diagnose leakage points, and provide data-driven recommendations for revenue optimization.
 
+![Image](https://github.com/user-attachments/assets/bde8589c-e249-41f1-a4c0-2e8f1acf720a)
+
 ### 🎯 Key Business Questions Addressed
 1.  What is the core conversion rate, and which step has the highest drop-off?
 2.  How does performance differ across devices (Mobile vs. Web)?
